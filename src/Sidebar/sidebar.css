@@ -4,11 +4,6 @@
   color: #333;
 }
 
-.ad img {
-  border-radius: 5px;
-  box-shadow: 0 0 4px 0 rgba(0,0,0,.3);
-}
-
 .ad a {
   color: #666;
 }
@@ -24,13 +19,6 @@
   font-size: 1.2em;
 }
 
-.ad-image {
-  text-align: center;
-}
-
-.ad-image a {
-  display: block;
-}
 
 .ad-text {
   font-size: .8em;

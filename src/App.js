@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Header from './Header/Header'
 import Body from './Article Content/primarybody'
-import SideBar from './Sidebar'
+import SideBar from './Sidebar/Sidebar'
 import OtherArticles from './Additional Articles/OtherArticles'
 import Footer from './Footer'
 
