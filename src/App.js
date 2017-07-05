@@ -1,17 +1,15 @@
 import React, { Component } from 'react';
 import './App.css';
-import Header from './Header'
-import Body from './primarybody'
+import Header from './Header/Header'
+import Body from './Article Content/primarybody'
 import SideBar from './Sidebar'
-import OtherArticles from './OtherArticles'
+import OtherArticles from './Additional Articles/OtherArticles'
 import Footer from './Footer'
-import Navigation from './Navigation'
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <Navigation />
         <Header />
 
         <main className="expanded row">

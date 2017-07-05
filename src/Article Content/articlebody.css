@@ -1,0 +1,14 @@
+.article-title {
+  font-weight: 700;
+  color: #333;
+}
+
+.article-body {
+  margin-top: 30px;
+}
+
+.article-start {
+  font-weight: 700;
+  font-size: 3em;
+  line-height: 1em;
+}
